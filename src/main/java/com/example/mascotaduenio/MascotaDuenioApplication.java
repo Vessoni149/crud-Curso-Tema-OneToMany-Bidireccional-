@@ -1,13 +1,13 @@
-package com.example.cursotema;
+package com.example.mascotaduenio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CursoTemaApplication {
+public class MascotaDuenioApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CursoTemaApplication.class, args);
+		SpringApplication.run(MascotaDuenioApplication.class, args);
 	}
 
 }
